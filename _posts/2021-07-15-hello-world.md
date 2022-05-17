@@ -1,10 +1,17 @@
 ---
 layout: post
 title: Hello World
-categories: [content, demo]
+categories:
+  - content
+  - demo
+published: true
 ---
 
+![0_4Bf5Yxakk5m0fdpj.jpg]({{site.baseurl}}/_posts/0_4Bf5Yxakk5m0fdpj.jpg)
+
 Test
+![0_3oZQIMLrZXHcTDbp.jpg]({{site.baseurl}}/_posts/0_3oZQIMLrZXHcTDbp.jpg)
+
 
 Hello and welcome. The only purpose of this post is to greet you when your site comes alive for the first time.  
 This post will demonstrate some of the more common content & elements found in posts.  
